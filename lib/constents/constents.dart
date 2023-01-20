@@ -1,0 +1,1 @@
+const int BOARD_SIZE = 3;
